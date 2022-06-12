@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Acestus
-- 👀 I’m interested in Ubuntu, emacs, TDD and Clojure Brave and True.
-- 🌱 I’m currently learning Clojure development.
+- 👀 I’m interested in Azure, Debian, emacs, TDD and Clojure Brave and True.
+- 🌱 I’m currently learning Azure Devops.
 - 💞️ I’m looking to collaborate on Clojure FOSS.
 - 📫 How to reach me: Acestus on Clojure Slack
 
