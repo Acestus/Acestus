@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Acestus
 - 👀 I’m interested in Azure.
-- 🌱 I’m currently learning Infrastructure as Code.
+- 🌱 I’m currently writing Infrastructure as Code.
 - 💞️ I’m looking to collaborate on .Net FOSS.
 
 <!---
